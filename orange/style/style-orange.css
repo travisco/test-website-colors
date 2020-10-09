@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body {
+  background-color: white;
+}
+h1 {
+  color: #FFA500;
+  font-family: 'Architects Daughter', cursive;
+  font-size: large;
+  margin: 0 auto;
+}
+p {
+  color: black;
+}
+
+#color_image {
+	margin: 0 auto;
+}
+
+#top_page {
+	color: #FFA500;
+}
